@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+
+h1 {
+    background-color: #EC058E;
+    color: #FFC857;
+    padding: 14px;
+    border-radius: 8px;
+    text-align: center;
+    width: 50%;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #9AC2C5;
+    padding: 20px;
+}
+span {
+    font-family: Rubik Gemstones, monospace;
+    color: #EC058E;
+}
+.about {
+   background-color:#6E9075; 
+   padding: 5px 20px 10px;
+   border-radius: 8px;
+}
+
+.about > p {
+    padding: 10px;
+}
+
+.post {
+    background-color: #ffc857;
+    border-radius: 8px;
+    padding: 5px 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px #333931;
+}
