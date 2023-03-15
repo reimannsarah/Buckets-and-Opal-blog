@@ -45,3 +45,15 @@ span {
     margin-bottom: 20px;
     box-shadow: 5px 5px 5px #333931;
 }
+
+.images {
+    text-align: center;
+}
+
+img {
+    margin: 5px;
+    width: 20vw;
+    height: 15vh;
+    border-radius: 50%;
+
+}
