@@ -29,6 +29,10 @@ span {
    border-radius: 8px;
    box-shadow: 5px 5px 5px #333931;
 }
+.about > h3 {
+    text-align: center;
+    font-style:italic;
+}
 
 .about > p {
     padding: 10px;
