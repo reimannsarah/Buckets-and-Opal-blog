@@ -6,7 +6,12 @@ h1 {
     padding: 14px;
     border-radius: 8px;
     text-align: center;
-    width: 50%;
+    margin: 0 25%;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
 }
 
 body {
@@ -22,6 +27,7 @@ span {
    background-color:#6E9075; 
    padding: 5px 20px 10px;
    border-radius: 8px;
+   box-shadow: 5px 5px 5px #333931;
 }
 
 .about > p {
